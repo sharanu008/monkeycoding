@@ -1,0 +1,29 @@
+{
+  "name": "kkblog",
+  "version": "1.0.0",
+  "description": "Krushikaipidi Blog",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharanu008/monkeycoding.git"
+  },
+  "keywords": [
+    "Krushi",
+    "kaipidi",
+    "Blog",
+    "Application"
+  ],
+  "author": "Sharan S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharanu008/monkeycoding/issues"
+  },
+  "homepage": "https://github.com/sharanu008/monkeycoding#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.9"
+  }
+}
